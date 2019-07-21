@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/TechConnect/static/css/main.700d3d42.chunk.css",
-    "main.js": "/TechConnect/static/js/main.0a7d6f1d.chunk.js",
-    "main.js.map": "/TechConnect/static/js/main.0a7d6f1d.chunk.js.map",
+    "main.js": "/TechConnect/static/js/main.d2c458ee.chunk.js",
+    "main.js.map": "/TechConnect/static/js/main.d2c458ee.chunk.js.map",
     "runtime~main.js": "/TechConnect/static/js/runtime~main.4d86dff3.js",
     "runtime~main.js.map": "/TechConnect/static/js/runtime~main.4d86dff3.js.map",
     "static/js/2.9721f4ac.chunk.js": "/TechConnect/static/js/2.9721f4ac.chunk.js",
     "static/js/2.9721f4ac.chunk.js.map": "/TechConnect/static/js/2.9721f4ac.chunk.js.map",
     "index.html": "/TechConnect/index.html",
-    "precache-manifest.85b6e3c5a6574b24ebefadd77dd3f0b3.js": "/TechConnect/precache-manifest.85b6e3c5a6574b24ebefadd77dd3f0b3.js",
+    "precache-manifest.5444917b31e0a2a7baf11baa9efc77ad.js": "/TechConnect/precache-manifest.5444917b31e0a2a7baf11baa9efc77ad.js",
     "service-worker.js": "/TechConnect/service-worker.js",
     "static/css/main.700d3d42.chunk.css.map": "/TechConnect/static/css/main.700d3d42.chunk.css.map",
     "static/media/App.css": "/TechConnect/static/media/showcase.c222e8eb.jpg",

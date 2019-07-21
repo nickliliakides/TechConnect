@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "726cb8200b49001b639302a5f4f9a1f6",
+    "revision": "abdfb510e206805624b597dc616f9302",
     "url": "/TechConnect/index.html"
   },
   {
-    "revision": "6cd343b6274823f589b4",
+    "revision": "453b9d042a1f19953da8",
     "url": "/TechConnect/static/css/main.700d3d42.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TechConnect/static/js/2.9721f4ac.chunk.js"
   },
   {
-    "revision": "6cd343b6274823f589b4",
-    "url": "/TechConnect/static/js/main.0a7d6f1d.chunk.js"
+    "revision": "453b9d042a1f19953da8",
+    "url": "/TechConnect/static/js/main.d2c458ee.chunk.js"
   },
   {
     "revision": "ea1ff2c79b56e5165ec3",
