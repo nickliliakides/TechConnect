@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/TechConnect/precache-manifest.5444917b31e0a2a7baf11baa9efc77ad.js"
+  "/TechConnect/precache-manifest.cb3dd2e382c97627c29694663e68e793.js"
 );
 
 self.addEventListener('message', (event) => {
