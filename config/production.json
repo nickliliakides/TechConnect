@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://nnckgr:162534@techconnect-atmgl.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "jebruishtoken",
+  "githubClientId": "7ee762271f3cf5d2ecb0",
+  "githubSecret": "630053bcd17f48d0db8fdb503879685a317147e7"
+}
